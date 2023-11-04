@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.cinemachine": "2.9.7",
     "com.unity.collab-proxy": "2.0.5",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.24",
@@ -13,7 +14,7 @@
     "com.unity.timeline": "1.7.5",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.8.0",
-    "com.verasl.water-system": "file:D:/Animacion 3D, juegos y Entornos Interactivos/2o/Desarrollo de aplicaciones multimedia/BoatAttack-master/Packages/com.verasl.water-system",
+    "com.verasl.water-system": "file:BoatAttack-master/Packages/com.verasl.water-system",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

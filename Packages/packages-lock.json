@@ -9,6 +9,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.cinemachine": {
+      "version": "2.9.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.31"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.5",
       "depth": 0,
@@ -234,7 +243,7 @@
       "url": "https://packages.unity.com"
     },
     "com.verasl.water-system": {
-      "version": "file:D:/Animacion 3D, juegos y Entornos Interactivos/2o/Desarrollo de aplicaciones multimedia/BoatAttack-master/Packages/com.verasl.water-system",
+      "version": "file:BoatAttack-master/Packages/com.verasl.water-system",
       "depth": 0,
       "source": "local",
       "dependencies": {
