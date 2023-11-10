@@ -142,7 +142,7 @@ public class PlayerController : MonoBehaviour
 
         if(_isGrounded && _playerGravity.y < 0)
         {
-            _playerGravity.y = 0;
+            _playerGravity.y = -4;
         }
 
         if(_isGrounded && Input.GetButtonDown("Jump"))
